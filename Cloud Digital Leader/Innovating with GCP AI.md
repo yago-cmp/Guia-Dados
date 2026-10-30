@@ -1,0 +1,7 @@
+### **4 Caminhos para Implementação de ML:**
+1. O **BigQuery ML** é o conjunto de ferramentas de ML embutidas nativamente ao BQ. Ao invés de precisar de código externo Python ou Java, é possível usar o próprio SQL para criar e rodar modelos de ML. Isso simplifica toda a timeline de implementação e workflow de execução. Ele pode ser integrado com o Gemini Enterprise Agent.
+2. **APIs Pré-Treinadas** são a solução para as sitações em que não existem dados o suficiente para treinar um modelo do zero. Para aplicações gerais e com necessidades comuns, elas podem ser uma boa ideia. Elas podem ser instanciadas numa VPC (Virtual Private Cloud), on-premises ou na Public Cloud do Google.
+3. O **Agent Studio** (Gemini Enterprise Agent) é uma plataforma de criação de modelos para ML com ênfase em low-code/no-code. É a solução ideal no caso de ser necessária uma customização maior do modelo a ser utilizado. Possui um ambiente próprio para prototipagem e testes.
+4. **Modelos Customizados** são aqueles criados do zero por profissionais de IA e cientistas de dados. O Gemini Enterprise Agent Platform possui ferramentas para a implementação e deploy desses modelos em diversos estágios do desenvolvimento.
+
+#CDL  #GCP 
