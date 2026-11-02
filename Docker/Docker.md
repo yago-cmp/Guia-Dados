@@ -1,13 +1,20 @@
-Docker é uma plataforma para containerização de instâncias de código. Ela possui uma CLI, mas o mais utilizado é o programa local, o [[Docker Desktop]].
+Docker é uma plataforma para containerização de instâncias de código. Ela possui a [[Docker CLI]] e um programa local, o [[Docker Desktop]].
 
 ### Container
-Um container é uma unidade padrão de software, que agrupa **código e dependências**, com o objetivo de oferecer velocidade e confiança entre diversos ambientes operacionais. Um container docker é um pacote leve, sem interdependências, que contém tudo que o programa precisa para rodar.
+Um container é uma unidade padrão de software, que agrupa **código e dependências**, com o objetivo de oferecer velocidade e confiança entre diversos ambientes operacionais. Um container docker é um pacote leve, sem interdependências, que contém tudo que o programa precisa para rodar. É uma **instância de uma [[#Container Image]]**, que de fato existe.
 ***
 ### Container Image
-A imagem é um arquivo **estático** que contém justamente todo o conteúdo: código, bibliotecas, dependências, etc. Ela é **imutável** (para cada alteração ela precisa ser gerada novamente). A imagem é construída pelo [[#Docker Engine]] com base em camadas de sistema sobrepostas, permitindo a reutilização de componentes ou dependências. 
+A imagem é um arquivo **estático** que contém justamente todo o conteúdo: código, bibliotecas, dependências, etc. Ela é **imutável** (para cada alteração ela precisa ser gerada novamente). A imagem é construída, gerada pelo [[#Docker Engine]] através de um arquivo **[[Dockerfile]]**.
 
-> [!Timeline]
-> **Dockerfile** -> Docker **Image** -> Docker **Container**
+O esquema de instanciação padrão de um Container é feito, então, da seguinte forma:
+> [!Instanciação]
+> Configurar **Dockerfile** -> Gerar Docker **Image** -> Instanciar Docker **Container**
+
+É possível e recomendado utilizar imagens pré-prontas, e muitas estão disponíveis por padrão no DockerHub. Esse processo de importação e alteração de imagens é feito justamente no [[Dockerfile]].
+***
+### Compose
+O [[Docker Compose]] é uma ferramenta para compor uma aplicação com diversos containers. Ele utiliza o CLI e um arquivo YAML ([[Docker Compose YAML]]) para definir e rodar "serviços" (containers) de um conjunto maior, seja uma aplicação ou processo complexo.
+
 
 ***
 ### Docker Engine
