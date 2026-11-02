@@ -104,7 +104,7 @@ Security Operations trata da proteção de uma organização na nuvem. No gcp:
 7. As políticas de privacidade são validadas e auditadas com padrões internacionais
 
 ### Residency & Compliance
-A soberania de dados (Data Sovereignty) é o conceito legal de que os dados devem estar de acordo com as leis e regulações de onde eles residem. A GDPR na UE, por exemplo, exige que empresas obedecem leis de processamento e de proteção de dados de cidadãos. A residência de dados (Residency) trata do local onde, de fato, os dados esão armarmazenados. Algumas leis obrigam que os dados estejam fisicamente salvos em seu país em algumas situações.
+A soberania de dados (Data Sovereignty) é o conceito legal de que os dados devem estar de acordo com as leis e regulações de onde eles residem ou foram criados/pertencem. A GDPR na UE, por exemplo, exige que empresas obedecem leis de processamento e de proteção de dados de cidadãos. A residência de dados (Residency) trata do local onde, de fato, os dados esão armazenados. Algumas leis obrigam que os dados estejam fisicamente salvos em seu país em algumas situações.
 
 
 

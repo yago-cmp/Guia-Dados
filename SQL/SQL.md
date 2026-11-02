@@ -1,0 +1,1 @@
+Discorrer sobre o SQL conceitualmente e relacionar conceitos importantes aqui!
