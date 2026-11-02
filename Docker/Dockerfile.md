@@ -120,3 +120,6 @@ Exemplo: `HEALTHCHECK CMD node /app/healthcheck.js || exit 1`
 | `CMD` | Run (quando liga) | Define o comando padrão (ou os argumentos padrões para o `ENTRYPOINT`) |
 
 
+
+
+#docker

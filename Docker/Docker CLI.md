@@ -128,3 +128,7 @@ docker exec -ti container_ola bash
 
 docker image rm imagem_ola  
 ```
+
+
+
+#docker

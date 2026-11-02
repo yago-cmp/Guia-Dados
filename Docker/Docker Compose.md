@@ -97,3 +97,8 @@ Apenas constrói (ou reconstrói) as imagens dos serviços que possuem a cláusu
 | "Quero desligar tudo mas manter os dados salvos" | `docker compose down` |
 | "Quero zerar o banco de dados e apagar tudo" | `docker compose down -v` |
 
+
+
+
+
+#docker

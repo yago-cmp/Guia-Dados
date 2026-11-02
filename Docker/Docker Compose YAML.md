@@ -172,3 +172,8 @@ Limita quanto de RAM e processador um container pode consumir da sua máquina.
 | `depends_on` + `healthcheck` | Espera o banco ficar pronto         | Evitar erro de conexão quando o Python sobe antes do banco             |
 | `restart`                    | Reinicia container se cair          | Manter bancos e servidores ativos (`unless-stopped`)                   |
 | `deploy.resources.limits`    | Trava uso máximo de RAM/CPU         | Evitar que Spark/Bancos travem sua máquina local                       |
+
+
+
+
+#docker

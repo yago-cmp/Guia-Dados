@@ -7,7 +7,7 @@ Um container é uma unidade padrão de software, que agrupa **código e dependê
 A imagem é um arquivo **estático** que contém justamente todo o conteúdo: código, bibliotecas, dependências, etc. Ela é **imutável** (para cada alteração ela precisa ser gerada novamente). A imagem é construída, gerada pelo [[#Docker Engine]] através de um arquivo **[[Dockerfile]]**.
 
 O esquema de instanciação padrão de um Container é feito, então, da seguinte forma:
-> [!Instanciação]
+> [!Processo]
 > Configurar **Dockerfile** -> Gerar Docker **Image** -> Instanciar Docker **Container**
 
 É possível e recomendado utilizar imagens pré-prontas, e muitas estão disponíveis por padrão no DockerHub. Esse processo de importação e alteração de imagens é feito justamente no [[Dockerfile]].
@@ -23,3 +23,10 @@ Docker Engine é o sistema que roda para criar, gerenciar e interagir com imagen
 ***
 ### Containers vs VMs
 Containers são abstrações no nível de aplicação, enquanto que VMs são abstrações a nível de hardware físico. Diversos containers podem rodar em cima de um único sistema operacional.
+
+
+
+
+
+
+#docker
