@@ -3,8 +3,8 @@ Docker é uma plataforma para containerização de instâncias de código. Ela p
 ### Container
 Um container é uma unidade padrão de software, que agrupa **código e dependências**, com o objetivo de oferecer velocidade e confiança entre diversos ambientes operacionais. Um container docker é um pacote leve, sem interdependências, que contém tudo que o programa precisa para rodar.
 ***
-### [[Container Image]]
-A imagem é um arquivo estático que contém justamente todo o conteúdo: código, bibliotecas, dependências, etc. Ela é **imutável** (para cada alteração ela precisa ser gerada novamente). A imagem é construída pelo [[Docker Engine]] com base em camadas de sistema sobrepostas, permitindo a reutilização de componentes ou dependências. 
+### Container Image
+A imagem é um arquivo **estático** que contém justamente todo o conteúdo: código, bibliotecas, dependências, etc. Ela é **imutável** (para cada alteração ela precisa ser gerada novamente). A imagem é construída pelo [[#Docker Engine]] com base em camadas de sistema sobrepostas, permitindo a reutilização de componentes ou dependências. 
 
 > [!Timeline]
 > **Dockerfile** -> Docker **Image** -> Docker **Container**
