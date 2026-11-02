@@ -1,3 +1,5 @@
+Docker é uma plataforma para containerização de instâncias de código. 
+
 ### Container
 ***
 Um container é uma unidade padrão de software, que agrupa **código e dependências**, com o objetivo de oferecer velocidade e confiança entre diversos ambientes operacionais. Um container docker é um pacote leve, sem interdependências, que contém tudo que o programa precisa para rodar.

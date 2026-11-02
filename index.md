@@ -1,6 +1,7 @@
-# Guia/Referência para Engenharia de Dados
-
-Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, abrangendo diversos temas e conceitos importantes. A ideia é trocar conhecimento e poder elaborar sobre o que foi aprendido, além de 
+---
+title: Guia/Referência para Engenharia de Dados 
+---
+Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, abrangendo diversos temas e conceitos importantes. A ideia é trocar conhecimento e poder elaborar sobre o que foi aprendido, além de poder consultar essa base como referencia no futuro!
 ## Temas Centrais Abordados
 
 `Navegue pelos tópicos!`

@@ -1,4 +1,4 @@
-## Cloud Digital Leader!
+## CDL!
 Essa é a certificação básica para quem está começando no GCP. Abaixo, está lista com os resumos do conteúdo de cada módulo. Também existirão referências externas para outros conteúdos mais complexos e relacionados/citados.
 
 ### Por onde estudar
