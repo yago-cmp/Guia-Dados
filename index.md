@@ -13,7 +13,7 @@ Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, a
 	- BigQuery
 	- CloudRun
 	- ...
-- **[[CDL]]** (Cloud Digital Leader)
+- **[[Cloud Digital Leader]]** (Cloud Digital Leader)
 - 
 
 Feito com carinho pelos estagiários do time de Data Analytics :)
