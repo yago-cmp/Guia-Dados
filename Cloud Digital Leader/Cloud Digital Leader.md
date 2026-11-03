@@ -3,7 +3,7 @@ Essa é a certificação básica para quem está começando no GCP. Abaixo, est�
 
 ### Por onde estudar
 - Curso oficial: [Path no Skills Boost](https://partner.skills.google/paths/75?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D "Path no Skills Boost")
-- PDFs de resumo oficiais: [[Resumos CDL]]
+- PDFs de resumo oficiais: [[Cloud Digital Leader/Resumos CDL/Resumos CDL|Resumos CDL]]
 
 ### Anotações dos Módulos do Curso
 1. [[Digital Transformation With Google Cloud]]
