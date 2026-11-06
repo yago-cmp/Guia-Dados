@@ -14,14 +14,14 @@ texto inicial sobre o GCP
 - **Compute Engine** - VMs
 - **Kubernetes Engine** - GKE
 - **Cloud Run** - Containers
-	- **Cloud Scheduler**
 - Cloud Run **Functions** - Eventos
 - App Engine - Web
-- **Dataproc** - Hadoop/Spark
 ## Pipelines
 - **Cloud Composer** - Managed Airflow
 - Workflows
 - **Dataflow**
+- **Cloud Scheduler**
+- **Dataproc** - Hadoop/Spark
 ## Devops & CI/CD
 - **Cloud Build**
 - Cloud Deploy
