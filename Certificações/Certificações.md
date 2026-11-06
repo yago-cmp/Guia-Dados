@@ -1,4 +1,4 @@
-Uma certificação é um indicativo de proficiência em determinado assunto, que pode ser reconhecida pelo mercado de forma geral. Dentro do contexto da empresa, elas ajudam a mostrar para possíveis clientes que ela possui pessoal e mão de obra qualificada. Dentro do contexto pessoal, elas ajudam a valorizar o seu currículo e jornada profissional.
+Uma certificação é um indicativo de proficiência em determinado assunto, que pode ser reconhecida pelo mercado de forma geral. Dentro do contexto da empresa, elas ajudam a mostrar para possíveis clientes que ela possui pessoal e mão de obra qualificada. Dentro do contexto pessoal, elas ajudam a valorizar o seu currículo e jornada profissional. aaaa
 
 # GCP
 ## [[Certificações/Cloud Digital Leader/Cloud Digital Leader|Cloud Digital Leader]]
