@@ -1,5 +1,4 @@
 Essa seção trata de Dados, e como eles agregam e potencializam as decisões das empresas.
-
 ## **Tipos de Dados**
 ***
 - **Estruturados**

@@ -1,4 +1,3 @@
-
 ### Total Cost of Ownership
 É um tipo de análise feita quando é considerada a adoção à nuvem, que mede o peso da adoção ao custo de manter os sistemas  rodando on-premises. No contexto on-premises, TCO geralmente é o preço de recursos estáticos ao longo do ciclo de vida dos equipamentos. Com relação à nuvem, os custos são calculados de forma diferente: o custo é por meio de assinaturas mensais ou de pay-per-use, ao invés do custo do hardware + manutenção. Os custos on-premises também envolvem pessoal, energia e resfriamento. O **problema** de transicionar de **CapEx para OpEx: controle de custos**.
 
