@@ -23,7 +23,7 @@ Um Data Lake guarda dados de formatos variados, sem necessariamente uma estrutur
 
 ## **Unstructured Data Storage**
 ***
-Google **Cloud Storage** é um serviço de armazenamento em nuvem de objetos. A mudança de "arquivos" para "objetos" se deve ao fato de que arquivos nos remetem à hierarquia, como pastas e diretórios. Os Objetos são guardados em binário, junto com metadados relevantes e um id global (uma URL). O Cloud Storage é um serviço altamente escalável e completamente gerenciado, servindo a diversos usos.
+O [[Google Cloud/Cloud Storage|Cloud Storage]] é um serviço de armazenamento em nuvem de objetos. A mudança de "arquivos" para "objetos" se deve ao fato de que arquivos nos remetem à hierarquia, como pastas e diretórios. Os Objetos são guardados em binário, junto com metadados relevantes e um id global (uma URL). O Cloud Storage é um serviço altamente escalável e completamente gerenciado, servindo a diversos usos.
 #### **Storage Classes**
 - **Standard Storage**
 	 Dados quentes, acessados frequentemente, além de dados temporários (usados por pouco tempo e removidos).
