@@ -27,7 +27,7 @@ Veja um cenário onde catchup=true
  Decidimos fazer backfill de 24 até 26. 
 ![[Pasted image 20261029000247.png]]
 
-### Xcoms:**
+### Xcoms:
 Compartilha dados entre tasks
 
 ![[Pasted image 20261029142313.png]]

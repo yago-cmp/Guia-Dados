@@ -6,6 +6,7 @@ Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, a
 
 `Navegue pelos tópicos!`
 
+- **[[Data Engineering/Data Engineering|Data Engineering]]**
 - **[[SQL]]**
 - **[[Docker]]**
 - **[[Airflow]]**
