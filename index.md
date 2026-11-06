@@ -15,7 +15,9 @@ Anotações feitas durante os estudos de Engenharia de Dados dos estagiários, a
 	- BigQuery
 	- CloudRun
 	- ...
-- **[[Cloud Digital Leader]]** 
+- **[[Certificações/Certificações|Certificações]]**
+	- **[[Certificações/Cloud Digital Leader/Cloud Digital Leader|Cloud Digital Leader]]** 
+	- **[[Certificações/Associate Data Practitioner/Associate Data Practitioner|Associate Data Practitioner]]**
 - 
 
 Feito com carinho pelos estagiários do time de Data Analytics :)
