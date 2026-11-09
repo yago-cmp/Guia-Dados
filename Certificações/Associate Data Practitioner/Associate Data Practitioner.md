@@ -18,3 +18,8 @@ Dados estruturados:
 
 [[Google Cloud/Analytics Hub|Analytics Hub]]
 
+Migracao e Replicacao:
+	**gcloud storage** - batch, <1tb, on-prem, google cloud
+	**Storage Tranfer** Service - batch, >1tb, on-prem, multicloud
+	**Transfer Appliance** - offline batch 7tb, 40tb, 300tb, on-prem
+	**Datastream** - estruturados, batch, stream, 10k tabelas por stream, on-prem, multicloud

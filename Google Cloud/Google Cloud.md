@@ -8,7 +8,7 @@ texto inicial sobre o GCP
 - ### Firestore - NoSQL
 - ### Bigtable - NoSQL
 ## Databases - Analítico
-- ### **BigQuery**
+- ### **[[Google Cloud/BigQuery|BigQuery]]**
 	- ### **Dataform** - SQLX
 ## Compute
 - ### **Compute Engine** - VMs
