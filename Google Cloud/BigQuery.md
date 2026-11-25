@@ -1,0 +1,1 @@
+O BigQuery é um banco analítico estruturado com capacidades de transformação de dados. O BQ é o cerne do fluxo ELT no ambiente do Google Cloud. Dentro do seu guarda-chuva, está o Dataform, ferramenta de transformações sequenciais e de criação de fluxos de dados dentro do BQ. Ele suporta UDFs (user defined functions), funções definidas pelo usuário, dent

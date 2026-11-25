@@ -9,7 +9,7 @@ texto inicial sobre o GCP
 - ### Bigtable - NoSQL
 ## Databases - Analítico
 - ### **[[Google Cloud/BigQuery|BigQuery]]**
-	- ### **Dataform** - SQLX
+	- ### **[[Google Cloud/Dataform|Dataform]]** - SQLX
 ## Compute
 - ### **Compute Engine** - VMs
 - ### **Kubernetes Engine** - GKE
