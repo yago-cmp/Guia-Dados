@@ -1,0 +1,2 @@
+Apache Iceberg é um formato aberto de lakehouse, implementado pela Google no GCP.
+Na implementação do GCP, os dados vivem no [[Cloud Storage]], e, a partir de Connections, eles são acessíveis pelo [[BigQuery]]. 
