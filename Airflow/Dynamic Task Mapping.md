@@ -24,4 +24,16 @@ Adicionando o código abaixo, agora não sabemos exatamente quantas ocorrências
 ```
 
 ### .partial( )
-É possível usar o .partial() logo depois e logo antes
+É possível usar o .partial() para passar como parâmetro valores que não mudam, como chaves, nomes de projeto, constantes, etc. No exemplo abaixo, o valor parcial Y é passado para todas as taks na expansão `x=[1,2,3]`.
+```
+added_values = add.partial(y=10).expand(x=[1, 2, 3])
+# This results in add function being expanded to
+# add(x=1, y=10)
+# add(x=2, y=10)
+# add(x=3, y=10)
+```
+
+É possível definir pelo partial a **quantidade máxima de execuções** paralelas via expand de uma task, cujo **default é 16**.
+```
+Operator.partial(max_active_tis_per_dag=16).expand()
+```
